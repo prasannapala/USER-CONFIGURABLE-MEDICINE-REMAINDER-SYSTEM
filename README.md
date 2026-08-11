@@ -18,3 +18,4 @@ The system performs the following operations:
 
 The LPC2148 continuously compares the RTC time with the stored medicine schedules. When the scheduled time matches, the buzzer generates an alert and the LCD displays "Take Medicine Now". The reminder stops when the user acknowledges it using Switch-2 or automatically after the timeout period.
 
+------------------------------------------------------------------------------------------------------------------------------
